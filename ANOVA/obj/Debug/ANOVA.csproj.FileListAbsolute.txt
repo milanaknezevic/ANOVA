@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\bin\Debug\ANOVA.exe.config
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\bin\Debug\ANOVA.exe
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\bin\Debug\ANOVA.pdb
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\obj\Debug\ANOVA.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\obj\Debug\ANOVA.Form1.resources
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\obj\Debug\ANOVA.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\obj\Debug\ANOVA.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\obj\Debug\ANOVA.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\obj\Debug\ANOVA.exe
+C:\Users\Korisnik\source\repos\ANOVA\ANOVA\obj\Debug\ANOVA.pdb
